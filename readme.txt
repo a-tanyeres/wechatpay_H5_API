@@ -1,0 +1,1 @@
+modify your personnal logs in lib/WxPay.Config.php
