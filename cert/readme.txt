@@ -1,0 +1,1 @@
+put "apiclient_cert.pem", "apiclient_key.pem" and "rootca.pem" here.
